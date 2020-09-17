@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //第一個功能
+        //功能分支03 - 第三個功能
     }
 }
